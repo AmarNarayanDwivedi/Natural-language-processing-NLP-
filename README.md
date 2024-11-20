@@ -1,6 +1,6 @@
 ﻿# Natural-language-processing(NLP)
  
-- Tokenization
+1. Tokenization
    * Corpus -> Documents
    * Documents -> Vocabulary
    * Corpus -> Vocaboulary
