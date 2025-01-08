@@ -93,11 +93,3 @@ Feature engineering plays a crucial role in preparing text data for machine lear
 These techniques form the foundation of feature engineering in NLP, making raw text data more useful and informative for machine learning algorithms.
 
 ---
-
-## Requirements
-
-To run the notebooks in this project, you will need Python 3.6 or higher. You can install the necessary dependencies using the provided `requirements.txt`.
-
-```bash
-pip install -r requirements.txt
-```
